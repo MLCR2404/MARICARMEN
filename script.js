@@ -18,20 +18,7 @@ const questions = [
         correctAnswer: "Óxido de cobre (I)",
         explanation: "En el sistema Stock, se indica el estado de oxidación del metal entre paréntesis. En Cu₂O, el cobre tiene un estado de oxidación de +1, por lo que se nombra como óxido de cobre (I).",
         molecule: "Cu2O"
-    },
-    {
-        question: "¿Cuál es el nombre estequiométrico del compuesto P₂O₅?",
-        options: ["Óxido de fósforo (V)", "Pentaóxido de difósforo", "Óxido fosfórico", "Pentóxido de fósforo"],
-        correctAnswer: "Pentaóxido de difósforo",
-        explanation: "En la nomenclatura estequiométrica, se indica el número de átomos de cada elemento en el orden en que aparecen en la fórmula. Por lo tanto, P₂O₅ se nombra como pentaóxido de difósforo.",
-        molecule: "P2O5"
-    },
-    {
-        question: "¿Cuál es la fórmula correcta del arseniuro de calcio?",
-        options: ["As₂Ca", "Ca₂As", "Ca₃As₂", "As₃Ca₂"],
-        correctAnswer: "Ca₃As₂",
-        explanation: "En el arseniuro de calcio, el calcio tiene un estado de oxidación de +2 y el arsénico de -3. Para balancear las cargas, se necesitan 3 átomos de calcio por cada 2 de arsénico, resultando en Ca₃As₂.",
-        molecule: "Ca3As2"
+    
     },
     {
         question: "¿Cómo se nombra Br₂O₃ según la nomenclatura stock?",
